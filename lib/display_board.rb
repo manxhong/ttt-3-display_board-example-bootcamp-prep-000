@@ -8,4 +8,3 @@ def display_board
   puts rows
   puts cells
 end
-
